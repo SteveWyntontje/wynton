@@ -10,7 +10,7 @@ This project was bootstrapped with [Vue](https://vuejs.org/).
 
 Go to the project directory by typing the following command in the terminal:
 
-### `cd ./wyntons-japan`
+### `cd wynton\vue-site`
 
 To install all needed tools run:
 
@@ -18,7 +18,7 @@ To install all needed tools run:
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run serve`
 
 Runs the app in the development mode.\
 Open [http://localhost:8080](http://localhost:8080) to view it in your browser.
